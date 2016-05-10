@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"lista",
+				"listaContatosService"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation');",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b4428bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation');",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/platforms/platforms.json",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/css/teste.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/grails/grails-app/conf/application.yml",
+		"/C/Users/ja/AppData/Local/Temp/Temp2_youtube-master.zip/youtube-master/AngularJS_9_Criando_Filtros/js/filters/ellipsisFilter.js",
+		"/C/Users/ja/AppData/Local/Temp/Temp2_youtube-master.zip/youtube-master/AngularJS_9_Criando_Filtros/js/filters/nameFilter.js",
+		"/C/Users/ja/AppData/Local/Temp/Temp2_youtube-master.zip/youtube-master/AngularJS_9_Criando_Filtros/js/controllers/listaTelefonicaCtrl.js",
+		"/C/Users/ja/AppData/Local/Temp/Temp1_youtube-master.zip/youtube-master/AngularJS_9_Criando_Filtros/js/app.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/mean/contatos/app/views/index.ejs.html",
+		"/C/Users/ja/Documents/desenvolvimento/Sublime Text Build 3083/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/MEAN/server.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/mean/projetoSublimeMean.sublime-project",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/www/index.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/www/js/app.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/www/js/listaContatosControle.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/www/js/listaContatosService.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/platforms/android/cordova/node_modules/lodash/support.js",
+		"/C/Users/ja/Downloads/p (2).js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/projetoBranco/plugins/cordova-plugin-contacts/www/contacts.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/bower.json",
+		"/C/Users/ja/Documents/desenvolvimento/Sublime Text Build 3083/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/templates/tabs.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/js/app.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/js/services.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/js/controllers.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/lib/ionic/js/ionic.bundle.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/ionic/teste2/www/index.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/simple-todos-angular/client/scripts/lib/app.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/simple-todos-angular/client/index.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/simple-todos-angular/client/scripts/routes.js",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/simple-todos-angular/client/templates/chats.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/simple-todos-angular/client/templates/tabs.html",
+		"/C/Users/ja/Documents/desenvolvimento/projetos/projetosMeteor/whatsapp/client/scripts/lib/app.js"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"teste",
+			"zapzap",
+			"starter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "valeAPena.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
